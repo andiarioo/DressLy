@@ -1,4 +1,4 @@
 # DressLy
-Slicing UI design Muhammad Fauzan Alkhairi from codedesign.dev
+Slicing UI design by Muhammad Fauzan Alkhairi from codedesign.dev
 
 Link : https://codedesign.dev/challenge/dressLy
